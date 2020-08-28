@@ -46,6 +46,12 @@ body
 }
 #post
 {
-    background:plum;
-    padding: lem;
+    padding: 1em;
+}
+#footer
+{
+    background: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
